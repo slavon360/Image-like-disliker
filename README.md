@@ -5,3 +5,14 @@ on conditions that it already liked or disliked. You can also go to previous pic
   are checked - new elements are created and arranged at the bottom of the page. Each 
   element represent the picture that was liked or disliked. Also we can see 
   the statistic of "total pushes", "likes", "dislikes" and like-dislike bar.
+## Used technologies
+pure JS
+## App directory Layout
+```
+JS/            
+  jsData.js        
+  js.js            
+CSS/
+  css.css
+html.html
+```
